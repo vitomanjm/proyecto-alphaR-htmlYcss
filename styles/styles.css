@@ -149,7 +149,7 @@
         }
         .listaServicios img {
             position:  absolute;
-            size: 100%;
+            width: 50%;
         }
         .listaServicios li {
             position:  absolute;
